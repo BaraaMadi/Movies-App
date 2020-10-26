@@ -3,6 +3,7 @@
   
 <li> Show List of Movies
 <li>  Filtering Movies
+  <li>Paginate Movies
 <li>  Sorting Movies
 <li> Seach for Movie
 <li> Admin Control - Crud operations :
