@@ -1,3 +1,19 @@
+<h3>Features :  </h3>
+<ul>
+  
+<li> Show List of Movies
+<li>  Filtering Movies
+<li>  Sorting Movies
+<li> Seach for Movie
+<li> Admin Control - Crud operations :
+  <ul>
+<li>  Add New Movie
+<li>  Edit Movie
+<li>  Delete Movie
+  </ul>
+  </li>
+</ul>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
